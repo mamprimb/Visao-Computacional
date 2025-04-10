@@ -12,6 +12,8 @@ Gustavo Valentim - 202201037709
 
 Isabelle Mamprim - 202109123289
 
+Pedro Henrique Rossetto Costa - 202108581259
+
 ## 📚 Sobre o Projeto
 
 Este repositório foi criado com o objetivo de fornecer recursos educacionais e exemplos práticos para estudantes da visão computacional.
