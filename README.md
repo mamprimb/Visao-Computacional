@@ -3,9 +3,13 @@
 Este projeto é uma coleção de exercícios e aplicações práticas relacionados ao campo da visão computacional, utilizando principalmente Jupyter Notebooks.
 
 Lucas Muniz - 202208555391
+
 João Pedro Martinez - 202051941022
+
 Felipe Ultramar Gonçalves Valadão - 202201383852
+
 Gustavo Valentim - 202201037709
+
 Isabelle Mamprim - 202109123289
 
 ## 📚 Sobre o Projeto
